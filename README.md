@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jitendra185
+- 👋 Hi, I’m @Jitendra185 (Jitendra Seervi)
 - 👀 I’m interested in Arduino Robitics, RC with Arduino and electronics
 - 🌱 I’m currently learning Arduino and C++
 - 💞️ I’m looking to collaborate on Arduino Header Files and arduino coding 
